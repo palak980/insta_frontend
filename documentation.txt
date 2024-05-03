@@ -1,0 +1,14 @@
+follow bellow steps to run web app
+1. unzip frontend and opsmpro.
+2. open opspro in vscode
+3. cd world
+4. run command in cmd pip install virtualenv
+5. run command virtualenv venv
+6. run command venv\scripts\activate
+7. pip install -r requirements.txt
+8. python manage.py runserver
+
+9. in new window open frontend folder
+10. cd front
+11. npm install
+1. npm run dev
